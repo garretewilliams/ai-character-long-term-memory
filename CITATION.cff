@@ -1,0 +1,33 @@
+cff-version: 1.2.0
+message: "If you refer to this article, please cite it using the metadata below."
+title: "Long-Term Memory for AI Characters: Memory, Context and Contextual Emotional Inference in AI Roleplay"
+abstract: >-
+  An essay on long-term memory for AI characters, written by the founder of
+  ChatBrat AI. It argues that useful AI character memory goes beyond storing
+  facts: it combines conversational context, history and contextual emotional
+  inference (tentative, revisable readings of conversational signals) so that
+  remembered history changes how a character behaves. It distinguishes fact
+  memory from experience memory, outlines what long-term memory should and
+  should not keep, describes an observe-interpret-retrieve-compare-respond-update
+  loop, and proposes practical tests for meaningful memory. It is an opinion
+  and design essay, not an empirical study, and makes no product-performance
+  claims.
+type: dataset
+authors:
+  - family-names: "Williams"
+    given-names: "Garret E."
+    affiliation: "ChatBrat AI"
+version: "1.0.0"
+date-released: "2026-10-15"
+license: CC-BY-4.0
+repository-code: "https://github.com/garretewilliams/ai-character-long-term-memory"
+url: "https://chatbrat.ai/"
+keywords:
+  - long-term memory
+  - AI character memory
+  - AI roleplay
+  - AI companions
+  - contextual emotional inference
+  - conversational context
+  - character consistency
+  - relationship continuity
