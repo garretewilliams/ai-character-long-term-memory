@@ -1,33 +1,39 @@
 cff-version: 1.2.0
-message: "If you refer to this article, please cite it using the metadata below."
-title: "Long-Term Memory for AI Characters: Memory, Context and Contextual Emotional Inference in AI Roleplay"
+message: "If you refer to this design essay, please cite the article below."
+title: "AI Roleplay With Long-Term Memory: Why Facts Aren't Enough"
 abstract: >-
-  An essay on long-term memory for AI characters, written by the founder of
-  ChatBrat AI. It argues that useful AI character memory goes beyond storing
-  facts: it combines conversational context, history and contextual emotional
-  inference (tentative, revisable readings of conversational signals) so that
-  remembered history changes how a character behaves. It distinguishes fact
-  memory from experience memory, outlines what long-term memory should and
-  should not keep, describes an observe-interpret-retrieve-compare-respond-update
-  loop, and proposes practical tests for meaningful memory. It is an opinion
-  and design essay, not an empirical study, and makes no product-performance
-  claims.
-type: dataset
+  A product design essay and proposed evaluation framework by the founder of
+  ChatBrat AI. It discusses narrative consequences, callbacks, earned trust,
+  character continuity, contextual memory use, and user agency. It separates
+  illustrative design goals from verified product behavior and experimental
+  results. No ChatBrat benchmark scores or comparative wins are reported.
 authors:
   - family-names: "Williams"
     given-names: "Garret E."
     affiliation: "ChatBrat AI"
-version: "1.0.0"
-date-released: "2026-10-15"
+    orcid: "https://orcid.org/0009-0008-9464-6561"
+version: "1.1.0"
+date-released: "2026-10-21"
 license: CC-BY-4.0
 repository-code: "https://github.com/garretewilliams/ai-character-long-term-memory"
-url: "https://chatbrat.ai/"
+url: "https://chatbrat.ai/bratlog/ai-chat-roleplay-with-long-term-memory"
+doi: "10.5281/zenodo.23411052"
 keywords:
+  - AI roleplay
   - long-term memory
   - AI character memory
-  - AI roleplay
-  - AI companions
-  - contextual emotional inference
-  - conversational context
   - character consistency
-  - relationship continuity
+  - narrative continuity
+  - user agency
+preferred-citation:
+  type: article
+  title: "AI Roleplay With Long-Term Memory: Why Facts Aren't Enough"
+  authors:
+    - family-names: "Williams"
+      given-names: "Garret E."
+      affiliation: "ChatBrat AI"
+      orcid: "https://orcid.org/0009-0008-9464-6561"
+  year: 2026
+  version: "1.1.0"
+  doi: "10.5281/zenodo.23411052"
+  url: "https://github.com/garretewilliams/ai-character-long-term-memory"
